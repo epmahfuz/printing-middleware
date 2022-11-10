@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Command\\Printing.Command.csproj": {}
+  },
+  "projects": {
+    "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Command\\Printing.Command.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Command\\Printing.Command.csproj",
+        "projectName": "Printing.Command",
+        "projectPath": "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Command\\Printing.Command.csproj",
+        "packagesPath": "C:\\Users\\Al Mahfuz\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Command\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Al Mahfuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.selise.biz/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Domain\\Printing.Domain.csproj": {
+                "projectPath": "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Domain\\Printing.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Domain\\Printing.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Domain\\Printing.Domain.csproj",
+        "projectName": "Printing.Domain",
+        "projectPath": "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Domain\\Printing.Domain.csproj",
+        "packagesPath": "C:\\Users\\Al Mahfuz\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositories\\BE\\fnb-printing\\FnbPrintingMiddleware\\Printing.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Al Mahfuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.selise.biz/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

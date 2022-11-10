@@ -1,0 +1,5 @@
+C:\Repositories\BE\fnb-printing\FnbPrintingMiddleware\Notification.CommandHandler\obj\Debug\net6.0\Notification.CommandHandler.csproj.AssemblyReference.cache
+C:\Repositories\BE\fnb-printing\FnbPrintingMiddleware\Notification.CommandHandler\obj\Debug\net6.0\Notification.CommandHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\BE\fnb-printing\FnbPrintingMiddleware\Notification.CommandHandler\obj\Debug\net6.0\Notification.CommandHandler.AssemblyInfoInputs.cache
+C:\Repositories\BE\fnb-printing\FnbPrintingMiddleware\Notification.CommandHandler\obj\Debug\net6.0\Notification.CommandHandler.AssemblyInfo.cs
+C:\Repositories\BE\fnb-printing\FnbPrintingMiddleware\Notification.CommandHandler\obj\Debug\net6.0\Notification.CommandHandler.csproj.CoreCompileInputs.cache
